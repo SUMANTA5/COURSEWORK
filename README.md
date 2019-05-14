@@ -2,6 +2,7 @@
 CSE 1341-Fall 2018 / Principles of Computer Science I
 
 Introduction
+
 Welcome to CSE 1341. This course will provide an introduction to the fundamental concepts of
 computer science, programming and object-oriented design of reusable modules. The course covers
 basic object-oriented concepts like composition, inheritance, polymorphism and containers. To get the
