@@ -1,4 +1,4 @@
-# COMPUTER SCIENCE COURSES
+# COMPUTER SCIENCE COURSES with Syllabus
 
 CSE 1341-Fall 2018 / Principles of Computer Science I / Java
 
