@@ -9,6 +9,7 @@ basic object-oriented concepts like composition, inheritance, polymorphism and c
 most out of this class and ultimately to be successful, you must be willing to work hard.
 
 Instructor Contact Information
+
 Ken Howard
 Caruth 4th Floor CSE Department
 (972) 467-3001
@@ -17,14 +18,17 @@ Office Hours: Monday 6:00-6:30pm and other times as announced in class.
 Schedule changes will be announced in class.
 
 Textbook
+
 Principles of Computer Science: Java Edition, Kendall Hunt Publishing, 
 First Edition, Ken Howard. ISBN# 13:978-1-4652-2252-7
 
 Tests
+
 This course will have no final exam, but there will be three tests during the semester. Each test will
 take approximately 60 minutes to complete and will focus on the topics discussed since the last test.
 
 Quizzes
+
 In class, we will have 5 scheduled quizzes (see the syllabus for dates). Additionally, surprise
 unscheduled quizzes may also be given in class. Each quiz will last 10-15 minutes, held at the end of
 class and covers the reading material indicated in the course outline. There are no makeups for
@@ -33,6 +37,7 @@ semester. The dropped quiz grade may be used if you miss a quiz due to tardiness
 those who don’t miss a quiz, the lowest quiz grade will be dropped automatically.
 
 Programming Assignments and Labs
+
 Almost every week on Friday you will be given a programming assignment which is usually due two
 weeks later. The lab assignments consist of two parts, a pre-lab and the lab.
 You must have the pre-lab and part of your programming assignment finished before you go to lab.
@@ -49,13 +54,21 @@ time, Canvas will not allow any submissions. Make sure that you can access Canva
 immediately if you are not correctly enrolled.
 
 Covered Topics and Class Outline
+
 Week 1 8/20 Introduction to lecture and labIntroduction to computers, languages, and Java
+
 Week 2 8/27 "Hello World", variables, arithmetic Control structures I 
+
 Week 3 9/3 Labor Day – No Class
+
 Week 4 9/10 Hex/Binary/Decimal Conversion; More Control structures, Methods
+
 Week 5 9/17 Methods, Exam Review
+
 Week 6 9/24 Arrays & Strings, EXAM 1
+
 Week 7 10/1 OO Concepts, Eclipse Object Oriented Programming
+
 Week 8 10/8 Fall Break – No Class
 Week 9 10/15 Object Oriented Programming, Classes
 Week 10 10/22 Classes, ArrayList 
